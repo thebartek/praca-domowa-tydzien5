@@ -1,6 +1,6 @@
 # praca-domowa-tydzien5
 Kurs Spring Boot 2 - Tydzień 5
-
+<br><br>
 <bold>Zadanie 1 – na rozgrzewkę</bold><br><br>
 Wybierz usługę, która zwraca kolekcje. Możesz użyć, któregoś z tych serwisów:<br>
 https://github.com/public-apis/public-apis<br>
