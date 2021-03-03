@@ -2,9 +2,9 @@
 Kurs Spring Boot 2 - Tydzień 5
 
 <bold>Zadanie 1 – na rozgrzewkę</bold><br><br>
-Wybierz usługę, która zwraca kolekcje. Możesz użyć, któregoś z tych serwisów:
-https://github.com/public-apis/public-apis
-Następnie skomunikuj się z usługą poprzez wykorzystanie klasy RestTemplate.
+Wybierz usługę, która zwraca kolekcje. Możesz użyć, któregoś z tych serwisów:<br>
+https://github.com/public-apis/public-apis<br>
+Następnie skomunikuj się z usługą poprzez wykorzystanie klasy RestTemplate.<br>
 Z wykorzystaniem swojego ulubionego narzędzia do tworzenia GUI wyświetl wszystkie dane we formie tabelarycznej.
 <br><br><br>
 <bold>Zadanie 2 – pogodynka</bold><br><br>
