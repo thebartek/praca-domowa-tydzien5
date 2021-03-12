@@ -24,7 +24,7 @@
 </nav>
 
 <br><br>
-<form style="width: 600px; margin: auto;" th:action="@{/weather/name}" th:object="${city}" method="post">
+<form style="width: 600px; margin: auto;" th:action="@{/weather/name}" th:object="${city}" method="get">
     <div class="form-group">
         <label for="exampleInput">City</label>
         <input class="form-control" id="exampleInput" placeholder="Enter City" th:field="*{name}">

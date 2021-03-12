@@ -30,8 +30,8 @@ public class WeatherController {
         return "weather";
     }
 
-    @PostMapping("/name")
-    public String setLocation(@ModelAttribute City newCity){
+    @GetMapping("/name")
+    public String findWeatherCity(@ModelAttribute City newCity) {
         return "redirect:/weather/" + newCity.getName();
     }
 }
